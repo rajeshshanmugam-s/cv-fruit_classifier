@@ -13,6 +13,7 @@ opencv-python = "*"
 keras = "*"
 tensorflow = "*"
 hug = "*"
+pymongo = "*"
 
 [requires]
 python_version = "3.7"
